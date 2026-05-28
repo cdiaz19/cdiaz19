@@ -26,6 +26,7 @@ Currently expanding into **data science and AI-assisted security** through MICIT
 | Project | What | Stack |
 |---|---|---|
 | **[RealInsightCR](https://realinsightcr-a722f1018d61.herokuapp.com)** | Civic intelligence platform, and community forum on an interactive map | Rails 8 · Stimulus/Turbo · Tailwind v4 · MapLibre GL · PostgreSQL · Sidekiq |
+| **[Lottie Orchestrator]([https://realinsightcr-a722f1018d61.herokuapp.com](https://github.com/cdiaz19/lottie-orchestrator))** | Provider-agnostic multi-agent orchestration framework with shared knowledge & AI governance. Works with Claude Code, Cursor, Codex, and any LLM. | pip install lottie-orchestrator |
 | **[datos-cr-api](https://github.com/Stardew-Global-Holdings)** | Public MCP surface for Costa Rica regulatory data: ARESEP, INEC, OIJ, BCCR | FastAPI · Python |
 | **[Stardew Global Holdings](https://github.com/Stardew-Global-Holdings)** | Org where I ship experiments, AI skills, Agents, internal tools, blog, and satellite products | Various |
 
@@ -34,11 +35,11 @@ Currently expanding into **data science and AI-assisted security** through MICIT
 ### Stack
 
 ```
-Backend     Ruby · .NET/C# · FastAPI · Sidekiq · PostgreSQL
+Backend     Ruby · .NET/C# · Python · FastAPI · Sidekiq · PostgreSQL
 Frontend    Rails · Vue 3 · React · TypeScript · Stimulus/Turbo · Tailwind v4 · Vite
 Infra       Docker · GKE · Hatchbox · DigitalOcean · Sentry · PostHog
-AI / Data   Anthropic SDK · OpenAI · pgvector · Prompt caching · RAG
-Domain      Dwolla · Moov · Modern Treasury
+AI / Data   Anthropic SDK · OpenAI · pgvector · Prompt caching · RAG 
+Domain      Dwolla · Moov · Modern Treasury · Stripe
 ```
 
 ---
