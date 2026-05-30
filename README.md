@@ -23,13 +23,15 @@ Currently expanding into **data science and AI-assisted security** through MICIT
 
 ### Currently building
 
+Building at the intersection of civic tech, AI infrastructure, and developer tools.
+
 | Project | What | Stack |
 |---|---|---|
 | **[RealInsightCR](https://realinsightcr-a722f1018d61.herokuapp.com)** | Civic intelligence platform, and community forum on an interactive map | Rails 8 · Stimulus/Turbo · Tailwind v4 · MapLibre GL · PostgreSQL · Sidekiq |
 | **[Lottie Orchestrator](https://github.com/cdiaz19/lottie-orchestrator)** | Provider-agnostic multi-agent orchestration framework with shared knowledge & AI governance. Works with Claude Code, Cursor, Codex, and any LLM. | Python · LangGraph · MCP · litellm · FastAPI · ChromaDB |
+| [lottie-lab](https://github.com/cdiaz19/lottie-lab) | Public test ground for Lottie - live rounds testing each phase of the framework against real agents, real providers, honest results | Python · Lottie |
 | **[datos-cr-api](https://github.com/Stardew-Global-Holdings)** | Public MCP surface for Costa Rica regulatory data: ARESEP, INEC, OIJ, BCCR | FastAPI · Python |
 | **[Stardew Global Holdings](https://github.com/Stardew-Global-Holdings)** | Org where I ship experiments, AI skills, Agents, internal tools, blog, and satellite products | Various |
-
 ---
 
 ### Stack
