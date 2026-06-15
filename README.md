@@ -48,6 +48,6 @@ Domain      Dwolla · Moov · Modern Treasury · Stripe
 
 ### Currently
 
-- 🛠 Shipping **RealInsightCR** toward public launch
+- 🛠 Shipping **PulsePlace** toward public launch
 - 📊 **Data Science & Cybersecurity with AI** — MICITT
 - 🏗 Growing the [Stardew Global Holdings](https://github.com/Stardew-Global-Holdings) product portfolio
