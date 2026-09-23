@@ -32,6 +32,7 @@ Building at the intersection of civic tech, AI infrastructure, and developer too
 | **[lottie-lab](https://github.com/cdiaz19/lottie-lab)** | Public test ground for Lottie - live rounds testing each phase of the framework against real agents, real providers, honest results | Python · Lottie |
 | **[datos-cr-api](https://github.com/Stardew-Global-Holdings)** | Public MCP surface for Costa Rica regulatory data: ARESEP, INEC, OIJ, BCCR | FastAPI · Python |
 | **[Stardew Global Holdings](https://github.com/Stardew-Global-Holdings)** | Org where I ship experiments, AI skills, Agents, internal tools, blog, and satellite products | Various |
+| **[Salot](https://salotcr.com/)** | Coffee brand | Specialty Coffee |
 ---
 
 ### Stack
